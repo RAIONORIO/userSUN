@@ -1,0 +1,5 @@
+{
+  "name": "usersSUN Dashboard",
+  "description": "A responsive user management dashboard to create, read, update, and delete users. This application serves as a frontend interface for managing a user database, providing a clean and intuitive UI for administrators.",
+  "requestFramePermissions": []
+}
